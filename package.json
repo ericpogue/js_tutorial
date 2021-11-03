@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "epogue-palindrome": "file:../../repos/palindrome"
+    "epogue-palindrome": "^0.2.1"
   }
 }
